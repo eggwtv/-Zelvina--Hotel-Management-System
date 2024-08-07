@@ -1,0 +1,12 @@
+Zelvina
+10
+101 Single 50 1
+102 Double 75 1
+103 Suite 150 1
+104 Single 50 1
+105 Double 75 1
+106 Suite 150 1
+107 Single 50 1
+108 Double 75 1
+109 Suite 150 1
+110 Single 50 1
